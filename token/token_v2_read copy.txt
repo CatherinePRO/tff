@@ -1,2 +1,0 @@
-Your token tinkoff api v2 (read)
-rename file "token_v2_read copy" => "token_v2_read"
